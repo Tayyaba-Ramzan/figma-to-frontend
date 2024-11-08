@@ -8,7 +8,7 @@ const HeroSection = () => {
                 <h1 className='text-[32px] md:text-[40px] lg:text-[48px] w-full lg:w-[496px] text-[#000000] font-bodoni font-bold mt-16 md:mt-24 lg:mt-32'>
                     IMPECCABLE CRAFTSMAN AND FINESSE
                 </h1>
-                <p className='text-[#787054] text-[18px] md:text-[24px] lg:text-[30px] mt-4 md:mt-6 lg:mt-7'>
+                <p className='text-[#787054] text-[18px] md:text-[24px] lg:text-[30px] mt-4 md:mt-6 lg:mt-7 font-bodoni'>
                     An example of intricate workmanship and detail, elegant necklaces and long and short chains form a part of our desirable collection.
                 </p>
                 <button className='font-bodoni bg-[#787054] px-8 py-2 md:px-10 md:py-3 text-[#FFFFFF] rounded mt-6 md:mt-8'>
