@@ -11,7 +11,7 @@ const Purity = () => {
             <div className='flex flex-wrap items-center justify-center mt-28 space-x-4 space-y-4'>
                 <div>
                     <Image
-                        src="/images/component 13.svg"
+                        src="/images/Component 13.svg"
                         alt='Component 1'
                         height={250}
                         width={250}
@@ -20,7 +20,7 @@ const Purity = () => {
                 </div>
                 <div>
                     <Image
-                        src="/images/component 14.svg"
+                        src="/images/Component 14.svg"
                         alt='Component 2'
                         height={250}
                         width={250}
@@ -29,7 +29,7 @@ const Purity = () => {
                 </div>
                 <div>
                     <Image
-                        src="/images/component 15.svg"
+                        src="/images/Component 15.svg"
                         alt='Component 3'
                         height={250}
                         width={250}
@@ -38,7 +38,7 @@ const Purity = () => {
                 </div>
                 <div>
                     <Image
-                        src="/images/component 15 (1).svg"
+                        src="/images/Component 15 (1).svg"
                         alt='Component 4'
                         height={250}
                         width={250}
@@ -47,7 +47,7 @@ const Purity = () => {
                 </div>
                 <div>
                     <Image
-                        src="/images/component 16.svg"
+                        src="/images/Component 16.svg"
                         alt='Component 5'
                         height={250}
                         width={250}
